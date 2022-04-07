@@ -1,0 +1,28 @@
+a:hover {
+    text-transform: uppercase;
+}
+
+.links-h1 {
+    text-align: center;
+}
+
+.p-text {
+    color: blueviolet;
+}
+
+table {
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid grey;
+ }
+
+ #pictures-header {
+     text-align: center;
+ }
+
+ #picturesContainer {
+     background-color: khaki;
+ }
