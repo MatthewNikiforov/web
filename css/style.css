@@ -26,3 +26,15 @@ th, td {
  #picturesContainer {
      background-color: khaki;
  }
+
+ .login-h1 {
+     text-align: center;
+ }
+
+ #inputEmail {
+     width: 400px;
+ }
+
+ #inputPassword {
+    width: 400px;
+}
